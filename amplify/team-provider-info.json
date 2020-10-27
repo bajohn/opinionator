@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-opinionator-dev-213647-authRole",
+      "UnauthRoleArn": "arn:aws:iam::748004005034:role/amplify-opinionator-dev-213647-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::748004005034:role/amplify-opinionator-dev-213647-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-opinionator-dev-213647-deployment",
+      "UnauthRoleName": "amplify-opinionator-dev-213647-unauthRole",
+      "StackName": "amplify-opinionator-dev-213647",
+      "StackId": "arn:aws:cloudformation:us-east-1:748004005034:stack/amplify-opinionator-dev-213647/e28c0ba0-17f4-11eb-bcf4-0e30fc137e69",
+      "AmplifyAppId": "d26o33z8h8c46l"
+    }
+  }
+}
